@@ -6,6 +6,12 @@ document.addEventListener('DOMContentLoaded', function () {
             var subMenu = menuItem.querySelector('.sub-menu')
             if (subMenu) {
                 subMenu.style.display = 'block'
+
+                var items = subMenu.querySelectorAll('.sub-menu__item')
+                items.forEach(item => {
+                    // item.style.opacity = 0;
+                    // console.log(this)
+                })
             }
 
         })
