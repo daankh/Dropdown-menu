@@ -16,7 +16,7 @@ Horizontal dropdown menu with CSS and JavaScript. This project was made for trai
 * NPM
 * Node.js
 
-## Install
+## Installation
 
 1. Download project on your computer.
 2. Install node.js and npm.
